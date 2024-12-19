@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently student at **ASTU**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently using **react,node,express,tailwind and nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/firalen](https://github.com/firalen)
 
