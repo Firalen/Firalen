@@ -1,20 +1,58 @@
-<h1 align="center">Hi 👋, I'm firaif</h1>
-<h3 align="center">A passionate frontend developer from ethiopia</h3>
+# Hi there! 👋 I'm [Your Name]  
 
-- 🔭 I’m currently student at **ASTU**
+🚀 **Frontend Developer | Web Enthusiast**  
+🎯 Passionate about building clean and efficient web experiences.  
 
-- 🌱 I’m currently using **react,node,express,tailwind and nextjs**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/firalen](https://github.com/firalen)
-
-- 📫 How to reach me **fira81564@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fira_16__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fira_16__" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+and+Tailwind+Enthusiast;Building+User-Friendly+Web+Interfaces;Passionate+About+Clean+Code" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🔧 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📌 Featured Projects
+🚀 **Check out some of my best work:**
+
+<table>
+  <tr>
+    <td><b>🔹 [Project 1](#)</b></td>
+    <td>A short description of the project with key features.</td>
+  </tr>
+  <tr>
+    <td><b>🔹 [Project 2](#)</b></td>
+    <td>Another project showcase with highlights.</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=light" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" /></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-black" alt="GitHub" /></a>
+</p>
+
+🌟 Let's build something amazing together! 🚀
