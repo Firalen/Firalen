@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm firaif</h1>
-<h3 align="center">A passionate frontend developer from ethiopia</h3>
+<h3 align="center">A passionate full-stack  developer from ethiopia</h3>
 
 - 🔭 I’m currently student at ASTU
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me fira81564@gmail.com
 
 - ⚡️ Fun fact I think I am funny
+  
+-  nodejs, mongojs, reactjs, express, typescript ,python ,nextjs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
