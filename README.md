@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently student at ASTU
 
-- 🌱 I’m currently using react,node,express,tailwind and nextjs
+- 🌱 I’m currently using react,node,express,tailwind,mongodb,mysql,postgres and nextjs
 
 - 👨‍💻 All of my projects are available at [https://github.com/firalen](https://github.com/firalen)
 
@@ -11,7 +11,6 @@
 
 - ⚡️ Fun fact I think I am funny
   
--  nodejs, mongojs, reactjs, express, typescript ,python ,nextjs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
